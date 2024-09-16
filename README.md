@@ -29,5 +29,5 @@ This project includes notebook files that show experiments of using probabilisti
 
    [GP.ipynb](https://github.com/anla11/probabilistic_programming/blob/main/BayesianML_Coursera/Week_6_Bayesian_ML_GP_assignment.ipynb)
 
-   These are assignment from the online course in Coursera: (Bayesian Methods for Machine Learning
-)[https://www.classcentral.com/course/bayesian-methods-in-machine-learning-9604]
+   These are assignment from the online course in Coursera: [Bayesian Methods for Machine Learning
+](https://www.classcentral.com/course/bayesian-methods-in-machine-learning-9604)
